@@ -13,8 +13,10 @@ N/A
 To use this application, you must press "Generate Password" to initiate the dialogue boxes that will ask the necessary questions in order to create a unique password. The image below displays a screenshot of the deployed application:
 
 ![Password Generator Image](assets/images/PasswordGenerator.jpg)
-![Password Generator Link](https://jalmand2.github.io/homework-three/)
+
 This is the link to the deployed application: 
+![Password Generator Link](https://jalmand2.github.io/homework-three/)
+
 
 
 
