@@ -12,7 +12,7 @@ N/A
 
 To use this application, you must press "Generate Password" to initiate the dialogue boxes that will ask the necessary questions in order to create a unique password. The image below displays a screenshot of the deployed application:
 
-![Password Generator Image](./Develop/PasswordGenerator.png)
+![Password Generator Image](assets/images/PasswordGenerator.jpg)
 
 ## License
 
